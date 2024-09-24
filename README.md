@@ -43,7 +43,7 @@ dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimizatio
 ## 📚 Publications & Research
 
 - **Detecting Planets Around Young Stars Using Time Series Analysis**  
-  [Link to paper](link_to_publication)
+  [Link to paper](https://www.aanda.org/articles/aa/full_html/2024/06/aa48258-23/aa48258-23.html)
 
 - **Advanced Signal Processing in Astrophysics**  
   [Link to paper](link_to_publication)
