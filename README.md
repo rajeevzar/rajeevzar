@@ -28,7 +28,7 @@ dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimizatio
 
 1. **Deep Learning for Chest X-ray Image Classification**
    - A deep learning project using convolutional neural networks (CNN) for classifying chest X-ray images.
-   - [View Project](link_to_repository)
+   - [View Project](https://github.com/rajeevzar/chest-xray_classification)
    
 2. **Planet Detection using Time Series Analysis**
    - A time series analysis project focusing on the detection of nascent planets using advanced machine learning techniques.
