@@ -1,6 +1,6 @@
 # Rajeev Manick
 
-👋 Hi, I'm **Rajeev Manick**, a Data Scientist with a PhD in Astrophysics and over 8 years of experience in developing innovative machine learning solutions, 
+👋 Hi there! I am Data Scientist with a PhD in Astrophysics and over 8 years of experience in developing innovative machine learning solutions, 
 particularly in time series analysis, deep learning, and signal processing.
 
 🔭 My research has focused on the detection and characterization of nascent planets, with published works on planet detection techniques using advanced time series analysis
