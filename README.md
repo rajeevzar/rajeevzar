@@ -32,7 +32,7 @@ dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimizatio
    
 2. **Planet Detection using Time Series Analysis**
    - A time series analysis project focusing on the detection of nascent planets using advanced machine learning techniques.
-   - [View Project](link_to_repository)
+   - [View Project](https://github.com/rajeevzar/planet-rv-detection-limit)
 
 3. **Time Series Forecasting using LSTM**
    - Developed an LSTM-based model for time series forecasting, applicable in astrophysics and industrial predictive maintenance.
@@ -45,8 +45,8 @@ dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimizatio
 - **Detecting Planets Around Young Stars Using Time Series Analysis**  
   [Link to paper](https://www.aanda.org/articles/aa/full_html/2024/06/aa48258-23/aa48258-23.html)
 
-- **Advanced Signal Processing in Astrophysics**  
-  [Link to paper](link_to_publication)
+- **Other Publications**  
+  [Link to paper](https://ui.adsabs.harvard.edu/public-libraries/DyNcSO0XTKSrkmyfGW3GAQ)
 
 ---
 
