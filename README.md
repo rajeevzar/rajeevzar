@@ -31,7 +31,7 @@ dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimizatio
    - [View Project](https://github.com/rajeevzar/chest-xray_classification)
    
 2. **Planet Detection using Time Series Analysis**
-   - A time series analysis project focusing on the detection of nascent planets using advanced machine learning techniques.
+   - Detection limit of nascent planets in the presence of stellar spot activity using statistical methods.
    - [View Project](https://github.com/rajeevzar/planet-rv-detection-limit)
 
 3. **Time Series Forecasting using LSTM**
