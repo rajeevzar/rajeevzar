@@ -3,8 +3,8 @@
 👋 Hi, I'm **Rajeev Manick**, a Data Scientist with a PhD in Astrophysics and over 8 years of experience in developing innovative machine learning solutions, 
 particularly in time series analysis, deep learning, and signal processing.
 
-🔭 My research has focused on the detection and characterization of nascent planets, with published works on planet detection techniques using advanced time series analysis, Deep Learning
-and statistical models.
+🔭 My research has focused on the detection and characterization of nascent planets, with published works on planet detection techniques using advanced time series analysis
+and statistical methods.
 
 👨‍💻 I'm proficient in Python, Scikit-learn, Keras, TensorFlow, and have significant experience in data wrangling, signal processing, 
 dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimization. 
