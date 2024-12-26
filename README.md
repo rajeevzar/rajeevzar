@@ -33,6 +33,8 @@ dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimizatio
 2. **Planet Detection using Time Series Analysis**
    - Detection limit of nascent planets in the presence of stellar spot activity using statistical methods.
    - [View Project](https://github.com/rajeevzar/planet-rv-detection-limit)
+   - Bisector modelling using Cross-correlation functions to demostrate Doppler shifts effect on Bisector.
+   - [View Project] (https://github.com/rajeevzar/bisector_modelling_CITAU)
 
 3. **Time Series Forecasting using LSTM**
    - Developed an LSTM-based model for time series forecasting, applicable in astrophysics and industrial predictive maintenance.
