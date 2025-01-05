@@ -37,7 +37,7 @@ dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimizatio
    - https://github.com/rajeevzar/bisector_modelling_CITAU
 
 3. **Time Series Forecasting using LSTM**
-   - Developed an LSTM-based model for time series forecasting, applicable in astrophysics and industrial predictive maintenance.
+   - LSTM-based model for time series forecasting.
    - [View Project](https://github.com/rajeevzar/BTC_price_prediction)
 
 ---
