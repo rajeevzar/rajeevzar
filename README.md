@@ -40,6 +40,12 @@ dynamic time warping (DTW), Gaussian Process modelling, and Bayesian optimizatio
    - LSTM-based model for time series forecasting.
    - [View Project](https://github.com/rajeevzar/BTC_price_prediction)
 
+4. **Earth Environment Analysis by country**
+   - In this project, I utilized environmental data from NASA Earthdata (https://search.earthdata.nasa.gov/search) to develop a codebase that enables users to analyze environmental data for different countries.
+   - The code categorizes and classifies the data into three levels—Good, Moderate, and Severe—based on predefined thresholds, providing valuable insights into the environmental health and performance of each country.
+   - We can plot time series data to observe the trends in environmental indicators over time, helping to assess the amelioration or deterioration of environmental conditions by country.
+   - [View Project](https://github.com/rajeevzar/Earth_data_analysis)
+
 ---
 
 ## 📚 Publications & Research
